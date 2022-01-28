@@ -22,5 +22,17 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.26.0",
     "eslint-plugin-react-hooks": "^4.2.0"
-  }
+  },
+  "description": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humairaasaleh/Express-Kittens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humairaasaleh/Express-Kittens/issues"
+  },
+  "homepage": "https://github.com/humairaasaleh/Express-Kittens#readme"
 }
